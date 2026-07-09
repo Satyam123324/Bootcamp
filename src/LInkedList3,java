@@ -1,0 +1,13 @@
+/*
+print forward
+curr = head 
+while curr!=Null
+print curr
+Iterate to reach end 
+while curr.next != Null
+curr = curr.next
+print reverse
+while curr != Null
+print curr
+curr = curr.prev
+ */

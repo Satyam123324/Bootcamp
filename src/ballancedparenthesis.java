@@ -37,7 +37,7 @@ public class ballancedparenthesis {
 
                 if (stack.isEmpty()) {
                     return false;
-                }
+                }           
 
                 char top = stack.pop();
 
